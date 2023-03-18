@@ -17,6 +17,8 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "preact": "^10.13.0",
+    "react": "npm:@preact/compat",
+    "react-dom": "npm:@preact/compat",
     "tailwindcss": "^3.2.7"
   },
   "devDependencies": {
